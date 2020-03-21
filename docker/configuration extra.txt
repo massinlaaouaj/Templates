@@ -1,0 +1,3 @@
+
+#If you have a Proxy server (in the office network or house):
+https://docs.docker.com/config/daemon/systemd/#httphttps-proxy
