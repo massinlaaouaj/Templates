@@ -2,8 +2,7 @@
 Templates for daily use, of different programming languages, in order to simplify the work.
 
 
-## List:
-<hr>
+## Content:
 
 ### `Linux and Windows`:
 - [Simple index.html to start](html/index.html)
@@ -21,3 +20,4 @@ Templates for daily use, of different programming languages, in order to simplif
 - [Purge Docker](docker/purge_docker.sh)
 - [Configure git global](git/configure_git.sh)
 - [Simple index.html to start](html/index.html)
+- [Firefox Send in Desktop](https://github.com/massinlaaouaj/FIREFOX-SEND-DESKTOP)
