@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #If you wish to block an ip address for whatever reason:
 
 if [ "$EUID" -ne 0 ]

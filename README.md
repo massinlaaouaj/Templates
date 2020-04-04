@@ -10,7 +10,10 @@ Templates for daily use, of different programming languages, in order to simplif
 
 ### `Windows`:
 - [Simple index.html to start](html/index.html)
-
+- [Complete pc information](powershell/pc_info.ps1)
+- [Uninstall default applications in Windows 10](powershell/uninstall_apps.ps1)
+- [Enable Powershell execution policy](BAT/enable-powershell-execution-policy.bat)
+- [Create your command CMD shortcut](powershell/create_command_shortcut.ps1)
 
 ### `🐧Linux`:
 
@@ -20,4 +23,5 @@ Templates for daily use, of different programming languages, in order to simplif
 - [Purge Docker](docker/purge_docker.sh)
 - [Configure git global](git/configure_git.sh)
 - [Simple index.html to start](html/index.html)
-- [Firefox Send in Desktop](https://github.com/massinlaaouaj/FIREFOX-SEND-DESKTOP)
+- [Firefox Send for Desktop app](https://github.com/massinlaaouaj/FIREFOX-SEND-DESKTOP)
+- [Compare the contents of 2 directories](bash/compare_content_directories.sh)
