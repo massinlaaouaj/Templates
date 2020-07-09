@@ -6,6 +6,7 @@ Templates for daily use, of different programming languages, in order to simplif
 
 ### `Linux and Windows`:
 - [Simple index.html to start](html/index.html)
+- [Install Laravel](frameworks/Laravel/Installation.md)
 
 
 ### `Windows`:
@@ -25,3 +26,4 @@ Templates for daily use, of different programming languages, in order to simplif
 - [Simple index.html to start](html/index.html)
 - [Firefox Send for Desktop app](https://github.com/massinlaaouaj/FIREFOX-SEND-DESKTOP)
 - [Compare the contents of 2 directories](bash/compare_content_directories.sh)
+- [Count processes running of each user](commands/Linux/nprocess.sh)
