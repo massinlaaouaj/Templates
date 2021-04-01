@@ -18,6 +18,7 @@ Templates for daily use, of different programming languages, in order to simplif
 
 ### `🐧Linux`:
 
+- [The perfect /etc/ssh/sshd_config](services/Linux/secure_sshd_config)
 - [Block or unblock ip address](bash/block_unblock_ip.sh)
 - [Show the largest 10 currently open files, the size of those files in Megabytes, and the name of the process holding the file open](commands/Linux/10_largest_files.sh)
 - [Install Docker and Docker-compose](docker/install_docker.sh)
